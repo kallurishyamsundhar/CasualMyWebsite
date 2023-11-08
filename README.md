@@ -1,1 +1,1 @@
-# CasualMyWebsite
+This repository contains the source code for a personal website, designed with a clean and modern look. The website is structured into different sections, including an introduction, a skills showcase, and contact information. It features a visually appealing design with cloud animations and skill descriptions. The design and layout create an engaging user experience while presenting information about the owner's skills and contact details.
